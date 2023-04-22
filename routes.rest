@@ -1,2 +1,15 @@
+# localhost
 GET http://localhost:8080/professional 
 
+###
+GET http://localhost:8080/professional/?oid=621fe1f527d68ebb24438395
+
+
+
+
+# production
+###
+GET http://localhost:8080/professional
+
+###
+GET https://cse341-l02-web-service.onrender.com/professional/?oid=621fe1f527d68ebb24438395
